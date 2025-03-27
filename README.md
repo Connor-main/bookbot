@@ -1,4 +1,2 @@
 # bookbot
-BookBot is my first git project!
-It's a command line application that does static analysis on text
-It's a guided project from boot.dev 
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
